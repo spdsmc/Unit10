@@ -1,0 +1,40 @@
+var country = {
+    name:"United States of America",
+    motto:"In God we trust",
+    anthem:"The Star-Spangled Banner",
+    capital:"Washington, D.C.",
+    currency:"United States Dollar",
+    president:"Barack Obama"
+};
+
+var restaurant = {
+    name:"Chipotle",
+    type:"Public",
+    ceo:"Steve Ells",
+    firstLocation:"Denver, Colorado"
+};
+
+var musicAlbum = {
+    name:"Me and My Gang",
+    artist:"Rascal Flatts",
+    released:"April 4, 2006",
+    producer:"Dann Huff",
+    length:"51:31"
+};
+
+var basketballTeam = {
+    name:"Golden State Warriors",
+    conference:"Western Conference",
+    division:"Pacific Division",
+    founded:1946,
+    ownership:"Joe Lacob, Peter Guber"
+};
+
+var movie = {
+    name:"Office Space",
+    director:"Mike Judge",
+    producer:"Daniel Rappaport, Michael Rotenberg",
+    releaseDates:"February 19, 1999",
+    runningTime:"89 minutes",
+    boxOffice:"$12.8 million"
+};

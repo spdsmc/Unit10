@@ -1,0 +1,10 @@
+What is the value of c.constructor?
+function (r) {
+this.radius = r;
+};
+
+List all (enumerable and non-enumerable properties) the own properties of c.
+radius              // alert(Object.getOwnPropertyNames(c));
+
+List all the enumerable properties of c.
+radius              // alert(Object.keys(c));
